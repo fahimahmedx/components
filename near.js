@@ -1,11 +1,11 @@
-let greeting = "Have a great day";
+let greeting = "Hello ETHGlobal Waterloo!";
 
 return (
   <>
     <div class="container border border-info p-3 text-center">
-      <h1>Hello {props.name}</h1>
+      <h1> {greeting} </h1>
 
-      <p> {greeting} </p>
+      <p> Playing around with NEAR's BOS </p>
     </div>
   </>
 );
